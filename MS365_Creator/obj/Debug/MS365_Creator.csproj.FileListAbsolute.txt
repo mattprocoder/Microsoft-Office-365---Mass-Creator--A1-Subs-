@@ -1,0 +1,13 @@
+C:\Users\matt\source\repos\MS365_Creator\MS365_Creator\bin\Debug\MS365_Creator.exe.config
+C:\Users\matt\source\repos\MS365_Creator\MS365_Creator\bin\Debug\MS365_Creator.exe
+C:\Users\matt\source\repos\MS365_Creator\MS365_Creator\bin\Debug\MS365_Creator.pdb
+C:\Users\matt\source\repos\MS365_Creator\MS365_Creator\bin\Debug\Leaf.xNet.dll
+C:\Users\matt\source\repos\MS365_Creator\MS365_Creator\bin\Debug\WebDriver.dll
+C:\Users\matt\source\repos\MS365_Creator\MS365_Creator\bin\Debug\Leaf.xNet.xml
+C:\Users\matt\source\repos\MS365_Creator\MS365_Creator\bin\Debug\WebDriver.xml
+C:\Users\matt\source\repos\MS365_Creator\MS365_Creator\obj\Debug\MS365_Creator.csprojAssemblyReference.cache
+C:\Users\matt\source\repos\MS365_Creator\MS365_Creator\obj\Debug\MS365_Creator.csproj.CoreCompileInputs.cache
+C:\Users\matt\source\repos\MS365_Creator\MS365_Creator\obj\Debug\MS365_Creator.csproj.CopyComplete
+C:\Users\matt\source\repos\MS365_Creator\MS365_Creator\obj\Debug\MS365_Creator.exe
+C:\Users\matt\source\repos\MS365_Creator\MS365_Creator\obj\Debug\MS365_Creator.pdb
+C:\Users\matt\source\repos\MS365_Creator\MS365_Creator\bin\Debug\Colorful.Console.dll
